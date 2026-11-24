@@ -1,0 +1,4 @@
+interface:
+  display_name: "Family History Research"
+  short_description: "Trace family lines and document the lives behind them"
+  default_prompt: "Use $research-family-history to investigate a branch of my family, document each relationship, and find records that show how these people lived."
